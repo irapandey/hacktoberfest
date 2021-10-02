@@ -31,7 +31,7 @@
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
-- GitHub: [AP Pranav](https://github.com/pranav-cs)
+- GitHub: [AP Pranav](https://github.com/pranav-cs) 
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
@@ -989,6 +989,11 @@ to explore life. Also, Python and Django Developer
 - Place: Lagos, Nigeria
 - Bio: Coumpter Engeering Undergrad | Front-end Developer | Javascript enthusiast
 - Github: [ipaye] (https://github.com/ipaye)
+
+#### Name: [Ira Pandey](https://github.com/irapandey)
+- Place: Delhi, India
+- Bio: Writer and engineering student
+- GitHub: [irapandey](https://github.com/irapandey)
 
 #### Name: [Isaac Torres Michel](https://github.com/isaactorresmichel)
 - Place: León, Mexico
